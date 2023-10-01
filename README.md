@@ -13,8 +13,6 @@ The AES (Advanced Encryption Standard) class is a JavaScript library that simpli
 
 - Simplified AES encryption and decryption operations.
 - Easy key generation and export.
-- Error handling for key operations.
-- Supports AES-GCM encryption with customizable IV and key length.
 
 ## Installation
 
