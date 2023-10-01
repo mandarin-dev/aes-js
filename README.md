@@ -24,7 +24,7 @@ git clone https://github.com/mandarin-dev/aes-js.git
 
 ## Usage
 ```
-import { AES } from 'aes-encryption-library';
+import { AES } from './AES.js';
 
 // Create an instance of the AES class
 const aes = new AES();
